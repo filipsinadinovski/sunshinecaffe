@@ -24,7 +24,7 @@ align-items: center;
 color: white;
 font-family: Raleway;
 font-weight: bolder;
-font-size: 52px;
+font-size: 54px;
 text-align: center;
 margin-top: -10px;
 margin-bottom: 60px;
@@ -34,7 +34,7 @@ margin-bottom: 60px;
 .ig {
 
 margin: auto;
-margin-top: 80px;
+margin-top: 100px;
 margin-bottom: 60px;
 width: 60px;
 height: 60px;
@@ -50,7 +50,7 @@ align-items: center;
 
 #bt-group {
 width: 900px;
-height: 460px;
+height: 470px;
 display: flex;
 margin: auto;
 flex-direction: column;
