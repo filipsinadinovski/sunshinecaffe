@@ -1,0 +1,70 @@
+p {
+  font-family: Raleway;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+body {
+background-color: #000000;
+}
+
+.logo {
+margin-left: auto;
+margin-right: auto;
+width: 750px;
+height: 750px;
+object-fit: cover;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+#meni {
+
+color: white;
+font-family: Raleway;
+font-weight: bolder;
+font-size: 50px;
+text-align: center;
+margin-top: -20px;
+margin-bottom: 60px;
+
+}
+
+.ig {
+
+margin: auto;
+margin-top: 60px;
+margin-bottom: 60px;
+width: 50px;
+height: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.ig img {
+width: 50px;
+height: 50px;
+}
+
+#bt-group {
+width: 900px;
+height: 400px;
+display: flex;
+margin: auto;
+flex-direction: column;
+justify-content: space-between;
+justify-items: center;
+}
+
+#bt-group button {
+margin: auto;
+}
+
+#socials {
+margin: auto;
+width: 150px;
+height: 120px;
+margin-top: 50px;
+}

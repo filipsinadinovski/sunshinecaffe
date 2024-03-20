@@ -1,0 +1,80 @@
+.ponudi-button {
+
+  background-color: #000000;
+  color: #fdc633;
+  border: #fdc633;
+  border-style: solid;
+  border-width: 1px;
+  height: 100px;
+  width: 870px;
+  border-radius: 200px;
+  font-family: Raleway;
+  font-weight: normal;
+  font-size: 30px;
+  cursor: pointer;
+
+  transition: 0.15s;
+}
+
+.ponudi-button:hover {
+  background-color: #fdc633;
+  color: black;
+}
+
+.ponudi-button:active {
+  opacity: 0.8;
+}
+
+.bezalkoholni-button {
+
+background-color: #000000;
+color: #fdc633;
+border: #fdc633;
+border-style: solid;
+border-width: 1px;
+height: 100px;
+width: 870px;
+border-radius: 200px;
+font-family: Raleway;
+font-weight: normal;
+font-size: 30px;
+cursor: pointer;
+
+transition: 0.15s;
+}
+
+.bezalkoholni-button:hover {
+background-color: #fdc633;
+color: black;
+}
+
+.bezalkoholni-button:active {
+opacity: 0.8;
+}
+
+.alkoholni-button {
+
+background-color: #000000;
+color: #fdc633;
+border: #fdc633;
+border-style: solid;
+border-width: 1px;
+height: 100px;
+width: 870px;
+border-radius: 200px;
+font-family: Raleway;
+font-weight: normal;
+font-size: 30px;
+cursor: pointer;
+
+transition: 0.15s;
+}
+
+.alkoholni-button:hover {
+background-color: #fdc633;
+color: black;
+}
+
+.alkoholni-button:active {
+opacity: 0.8;
+}

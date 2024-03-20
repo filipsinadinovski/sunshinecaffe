@@ -1,0 +1,74 @@
+        body {
+            background-color: black;
+            font-family: Raleway;
+        }
+
+        .menu-container {
+            max-width: 250px;
+            margin: 0 auto;
+            background-color: black;
+        }
+
+        h2 {
+            font-weight: bolder;
+            text-align: center;
+            font-size: 16px;
+            margin-top: 10px;
+            color: #fdc633;
+        }
+
+        #ponudi {
+          color: white;
+            list-style-type: none;
+            padding: 0;
+            margin-bottom: 8px;
+        }
+
+        li {
+            margin-bottom: 15px;
+            margin-left: 3px;
+            display: flex;
+            justify-content: space-between;
+            font-size: 12px;
+        }
+
+        #back {
+          height: 35px;
+          width: 35px;
+          margin-top: 20px;
+          margin-left: 10px;
+          margin-bottom: 25px;
+        }
+
+        .item-name {
+          font-weight: 600;
+        }
+
+        .item-price {
+          font-weight: 600;
+        }
+
+        .item-desc {
+          color: #808080;
+          font-weight: 500;
+          font-size: 8px;
+          margin-top: -12px;
+          width: 160px;
+        }
+
+        #sneks {
+          margin-top: 50px;
+          margin-bottom: 50px;
+        }
+
+        #dodatoci {
+          margin-bottom: 50px;
+        }
+
+        #gazirani, #dzusevi, #cedeni, #topli, #voda, #dodatoci, #apetisani, #sotovi, #kokteli, #zestoki, #vino {
+          margin-top: 50px;
+        }
+
+      #kafe, #pivo, #super {
+        margin-top: -25px;
+      }
