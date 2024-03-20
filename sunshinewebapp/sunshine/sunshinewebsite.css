@@ -35,7 +35,7 @@ margin-bottom: 70px;
 .ig {
 
 margin: auto;
-margin-top: 90px;
+margin-top: 100px;
 margin-bottom: 60px;
 width: 60px;
 height: 60px;
@@ -51,7 +51,7 @@ align-items: center;
 
 #bt-group {
 width: 900px;
-height: 540px;
+height: 550px;
 display: flex;
 margin: auto;
 flex-direction: column;
