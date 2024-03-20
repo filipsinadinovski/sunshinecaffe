@@ -27,7 +27,7 @@ font-weight: bolder;
 font-size: 54px;
 text-align: center;
 margin-top: -10px;
-margin-bottom: 60px;
+margin-bottom: 80px;
 
 }
 
@@ -50,7 +50,7 @@ align-items: center;
 
 #bt-group {
 width: 900px;
-height: 470px;
+height: 500px;
 display: flex;
 margin: auto;
 flex-direction: column;
